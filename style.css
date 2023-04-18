@@ -1,0 +1,11 @@
+img{
+    display: block;
+    -webkit-user-select: none;
+    margin: auto;
+    background-color: hsl(0, 0%, 90%);
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    margin-top: 341.6px;
+    margin-bottom: 341.6px;
+    width: 3%;
+}
